@@ -1,1 +1,1 @@
-# DePlan-proto
+# Metaplex Candy Machine Reference UI
